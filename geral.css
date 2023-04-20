@@ -1,0 +1,30 @@
+/* Geral */
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	background: #DDBBFF;
+}
+
+.title {
+	color: #934dd2;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 30px;
+	text-shadow: 0 -3px #FFFFFF;
+}
+
+.text {
+	width: 100%;
+	background: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.text p {
+	padding: 10px;
+}

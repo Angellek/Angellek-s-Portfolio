@@ -1,0 +1,48 @@
+/* Sobre */
+
+.about-things a{
+	text-decoration: none;
+	font-size: 28px;
+	font-weight: bolder;
+	color: #934dd2;
+	transition: 1s all;
+}
+
+.about-things a:hover {
+	text-decoration: none;
+	color: #c99bf3;
+	font-size: 33px;
+	transition: 1s all;
+}
+
+.about-things p {
+	font-weight: bold;
+	font-size: 22px;
+	color: #934dd2;
+}
+
+.about-things p:hover {
+	font-size: 22px ;
+	color: #934dd2;
+}
+
+.about-things p:nth-child(1) {
+	text-shadow: 0 -3px #DDBBFF;
+}
+
+.about-things p:nth-child(1):hover {
+	text-shadow: 0 3px #934dd2;
+}
+
+.about-things p:nth-child(3) {
+	text-shadow: 0 3px #DDBBFF;
+}
+
+.about-things p:nth-child(3):hover {
+	text-shadow: 0 -3px #934dd2;
+}
+
+.about-links {
+	text-decoration: none;
+}
+

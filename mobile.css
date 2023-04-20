@@ -1,0 +1,53 @@
+/* Mobile */
+
+@media screen and (max-width: 480px) {
+
+	/* Geral */
+
+	.title {
+		margin-top: 10px;
+		padding-top: 10px;
+	}
+
+
+	/* Cabeçalho */
+
+	.banner {
+		width: 40%
+	}
+
+	.name {
+		width: 60%;
+		max-width: 60%;
+		right: 2%;
+	}
+
+	nav {
+		background: #DDBBFF;
+		position: relative;
+	}
+
+	nav li{
+		width: 100%;
+		padding-left: 5px;
+		margin-right: 5px;
+	}
+
+	nav a{
+		width: 100%;
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+
+	nav a:hover {
+		font-size: 30px;
+	}
+
+	/* Rodapé */
+
+	.copyright-image {
+		width: 30%;
+		margin: 0 35%;
+	}
+
+}
